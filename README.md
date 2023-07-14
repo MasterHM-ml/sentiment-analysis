@@ -31,7 +31,7 @@ finally, compare the performance of all models using
 1. from `sklearn.metrics.classification_report`
 2. from `sklearn.metrics.confusion_matrix`, `sklearn.metrics.ConfusionMatrixDisplay`
 
-added a [short report](/report/Experimental Report.pdf) here as well.
+added a [short report](/report/) here as well.
 
 ## Evaluation
 
