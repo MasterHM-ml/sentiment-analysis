@@ -1,0 +1,6 @@
+The data is obtained from Kaggle - https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
+The dataset is movie reviews taken from "IMDB dataset (Sentiment Analysis) in CSV format"
+Dataset contain 3 files:
+Train.csv: 40,000 reviews with label 1 or 0
+Test.csv: 5,000 reviews with label 1 or 0
+Valid.csv: 5,000 reviews with label 1 or 0
